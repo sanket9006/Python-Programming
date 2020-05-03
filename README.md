@@ -10,6 +10,7 @@ between 2000 and 3200 (both included).
 The numbers obtained should be printed in a comma-separated sequence on a single line.
 
 Solution:
+
 def fact(x):
     if x == 0:
         return 1
