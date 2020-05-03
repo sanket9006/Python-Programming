@@ -1,6 +1,7 @@
 # Python-Programming
 
 #----------------------------------------#
+
 Question 1
 
 
@@ -16,5 +17,6 @@ def fact(x):
 
 x=int(raw_input())
 print fact(x)
+
 #----------------------------------------#
 
