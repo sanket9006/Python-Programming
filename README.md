@@ -19,6 +19,8 @@ Question 2
 
 Write a program which can compute the factorial of a given numbers.
 
+Solution:
+
     def fact(x):
       if x==1:
         return 1
