@@ -8,11 +8,12 @@ between 2000 and 3200 (both included).
 The numbers obtained should be printed in a comma-separated sequence on a single line.
 
 Solution:
-l=[]
-for i in range(2000, 3201):
-    if (i%7==0) and (i%5!=0):
-        l.append(str(i))
+def fact(x):
+    if x == 0:
+        return 1
+    return x * fact(x - 1)
 
-print (','.join(l))
+x=int(raw_input())
+print fact(x)
 #----------------------------------------#
 
