@@ -32,7 +32,7 @@ Solution:
 
 > Question 3
 
-                write a program to generate a dictionary that contains (i, i*
+                write a program to generate a dictionary that contains (i, i*)
 
 Solution:
 
