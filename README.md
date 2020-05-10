@@ -1,4 +1,4 @@
-# <p align="center"> Python-Programming</p>
+# <p align="center"> Python Programming</p>
 
 > Question 1
 
