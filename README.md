@@ -30,6 +30,7 @@ Solution:
     y=int(input())
     print(fact(y))
     
+# <p align="center"> -X-X-X </p>
 
 > Question 3
 
@@ -50,6 +51,8 @@ Output
     10
     1 2 3 4 5 6 7 8 9 10
     1 4 9 16 25 36 49 64 81 100
+    
+# <p align="center"> -X-X-X </p>    
     
 > Question 4  
 
