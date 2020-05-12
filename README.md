@@ -14,7 +14,7 @@ Solution:
             l.append(str(i))
     print (','.join(l))
 
-# <p align="center"> -X-X-X </p>
+# <p align="center"> -X-X-X- </p>
 
 > Question 2
 
@@ -30,7 +30,7 @@ Solution:
     y=int(input())
     print(fact(y))
     
-# <p align="center"> -X-X-X </p>
+# <p align="center"> -X-X-X- </p>
 
 > Question 3
 
@@ -52,7 +52,7 @@ Output
     1 2 3 4 5 6 7 8 9 10
     1 4 9 16 25 36 49 64 81 100
     
-# <p align="center"> -X-X-X </p>    
+# <p align="center"> -X-X-X- </p>    
     
 > Question 4  
 
@@ -68,7 +68,7 @@ Solution:
  
     print(anagram(a,b))
     
-# <p align="center"> -X-X-X </p>    
+# <p align="center"> -X-X-X- </p>    
     
 > Question 5  
 
@@ -84,7 +84,7 @@ Solution:
     print(check_palindrome(a,a[::-1]))
 
 
-# <p align="center"> -X-X-X </p>    
+# <p align="center"> -X-X-X- </p>    
     
 > Question 6 
 
@@ -110,4 +110,4 @@ Solution:
     print(find_miss_no(a))
 
 
-# <p align="center"> -X-X-X </p>   
+# <p align="center"> -X-X-X- </p>   
