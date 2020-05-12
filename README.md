@@ -109,10 +109,5 @@ Solution:
 
     print(find_miss_no(a))
 
-        def check_palindrome(s1,s2):
-          return s1==s2
-
-        print(check_palindrome(a,a[::-1]))
-
 
 # <p align="center"> -X-X-X </p>   
