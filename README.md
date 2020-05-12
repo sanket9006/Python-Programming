@@ -75,8 +75,10 @@ Solution:
 
     a="malayalam"
 
-    def check_p(s1,s2):
+    def check_palindrome(s1,s2):
       return s1==s2
 
-    print(check_p(a,a[::-1]))
+    print(check_palindrome(a,a[::-1]))
 
+
+# <p align="center"> -X-X-X </p>    
