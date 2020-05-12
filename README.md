@@ -85,3 +85,34 @@ Solution:
 
 
 # <p align="center"> -X-X-X </p>    
+    
+> Question 6 
+
+Find the Missing Number
+
+Solution:
+
+    a = [1,2,3,5]
+
+
+    #as we know (n)*(n+1)/2 gives sum of n numbers
+
+    # "sum_if_series_were_completed" corresponds to sum of [1,2,3,4,5]
+    # "sum_of_missing_series" corresponds to sum of [1,2,3,5]
+
+
+    def find_miss_no(series):
+      p = len(series)
+      sum_if_series_were_completed = ((p+1)*(p+2))/2
+      sum_of_missing_series = sum(series)
+      return sum_if_series_were_completed-sum_of_missing_series
+
+    print(find_miss_no(a))
+
+        def check_palindrome(s1,s2):
+          return s1==s2
+
+        print(check_palindrome(a,a[::-1]))
+
+
+# <p align="center"> -X-X-X </p>   
