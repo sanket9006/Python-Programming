@@ -60,6 +60,9 @@ Write a program to check if two strings are anagram
 
 Solution:
 
+    def anagram(s1,s2):
+      return sorted(s1)==sorted(s2)
+      
     a="ababa" #string 1
     b="ababa" #string 2
  
