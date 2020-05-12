@@ -64,4 +64,19 @@ Solution:
     b="ababa" #string 2
  
     print(anagram(a,b))
+    
+# <p align="center"> -X-X-X </p>    
+    
+> Question 5  
+
+Write a program to check if given strings are palindrome
+
+Solution:
+
+    a="malayalam"
+
+    def check_p(s1,s2):
+      return s1==s2
+
+    print(check_p(a,a[::-1]))
 
