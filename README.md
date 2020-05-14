@@ -111,3 +111,15 @@ Solution:
 
 
 # <p align="center"> -X-X-X- </p>   
+
+
+> Question 7
+
+How do you debug a Python program?
+
+Solution:
+
+    python -m pdb prg_name.py
+
+
+# <p align="center"> -X-X-X- </p>   
