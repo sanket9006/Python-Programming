@@ -120,6 +120,7 @@ How do you debug a Python program?
 Solution:
 
     python -m pdb prg_name.py
+    pdb -> python debugger
 
 
 # <p align="center"> -X-X-X- </p>   
