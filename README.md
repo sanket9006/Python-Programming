@@ -125,3 +125,20 @@ Solution:
 
 
 # <p align="center"> -X-X-X- </p>   
+
+
+> Question 8
+
+Print  space seperated integers on a line denoting first N squares in the ascending order
+
+Solution:
+
+    p=int(input())
+
+    for i in range(p):
+        pp=i+1
+        cc=pp*pp
+        print( cc, end=" ")
+
+
+# <p align="center"> -X-X-X- </p>   
