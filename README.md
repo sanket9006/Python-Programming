@@ -147,3 +147,24 @@ Solution:
       1 4 9 16 25 36 49 64 81 100 
 
 # <p align="center"> -X-X-X- </p>   
+
+
+> Question 9
+
+Convert Celsius To Fahrenheit
+
+Solution:
+
+    celsius = 37.5
+
+    # calculate fahrenheit
+    fahren = (celsius * 1.8) + 32
+    print('%0.1f degree Celsius is equal to %0.1f degree Fahrenheit' %(celsius,fahren))
+
+        
+        
+  Output
+
+      37.5 degree Celsius is equal to 99.5 degree Fahrenheit 
+
+# <p align="center"> -X-X-X- </p>   
