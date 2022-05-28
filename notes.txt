@@ -1,0 +1,5 @@
+if len(data) == len(set(data)):
+random.shuffle(char_list)
+x = sorted(a, reverse=True)
+print('Person has age?:', hasattr(person, 'age'))
+
